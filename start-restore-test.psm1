@@ -1,4 +1,4 @@
-Import-Module "D:\program files\veeam\Console\Veeam.Backup.PowerShell.dll" -DisableNameChecking
+Import-Module "C:\program files\veeam\Console\Veeam.Backup.PowerShell.dll" -DisableNameChecking
 #load the veeam powershell module, you might need to change the path
 
 function Get-TimeStamp {
